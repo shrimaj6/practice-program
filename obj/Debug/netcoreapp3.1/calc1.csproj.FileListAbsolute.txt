@@ -1,0 +1,14 @@
+C:\Users\shrimaj\source\repos\calc1\calc1\bin\Debug\netcoreapp3.1\calc1.exe
+C:\Users\shrimaj\source\repos\calc1\calc1\bin\Debug\netcoreapp3.1\calc1.deps.json
+C:\Users\shrimaj\source\repos\calc1\calc1\bin\Debug\netcoreapp3.1\calc1.runtimeconfig.json
+C:\Users\shrimaj\source\repos\calc1\calc1\bin\Debug\netcoreapp3.1\calc1.runtimeconfig.dev.json
+C:\Users\shrimaj\source\repos\calc1\calc1\bin\Debug\netcoreapp3.1\calc1.dll
+C:\Users\shrimaj\source\repos\calc1\calc1\bin\Debug\netcoreapp3.1\calc1.pdb
+C:\Users\shrimaj\source\repos\calc1\calc1\obj\Debug\netcoreapp3.1\calc1.csproj.AssemblyReference.cache
+C:\Users\shrimaj\source\repos\calc1\calc1\obj\Debug\netcoreapp3.1\calc1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\shrimaj\source\repos\calc1\calc1\obj\Debug\netcoreapp3.1\calc1.AssemblyInfoInputs.cache
+C:\Users\shrimaj\source\repos\calc1\calc1\obj\Debug\netcoreapp3.1\calc1.AssemblyInfo.cs
+C:\Users\shrimaj\source\repos\calc1\calc1\obj\Debug\netcoreapp3.1\calc1.csproj.CoreCompileInputs.cache
+C:\Users\shrimaj\source\repos\calc1\calc1\obj\Debug\netcoreapp3.1\calc1.dll
+C:\Users\shrimaj\source\repos\calc1\calc1\obj\Debug\netcoreapp3.1\calc1.pdb
+C:\Users\shrimaj\source\repos\calc1\calc1\obj\Debug\netcoreapp3.1\calc1.genruntimeconfig.cache
